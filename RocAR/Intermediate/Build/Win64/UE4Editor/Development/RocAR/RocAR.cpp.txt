@@ -1,0 +1,2 @@
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Intermediate\Build\Win64\UE4Editor\Development\RocAR\Definitions.RocAR.h
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Source\RocAR\RocAR.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RocAR",
+			"Path": "C:\\Users\\narli\\OneDrive\\Documents\\GitHub\\RochesterAR\\RocAR\\Source\\RocAR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RocAREditor",
+			"Path": "C:\\Users\\narli\\OneDrive\\Documents\\GitHub\\RochesterAR\\RocAR\\Source\\RocAREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

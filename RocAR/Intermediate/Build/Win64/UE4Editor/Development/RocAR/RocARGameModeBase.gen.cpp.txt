@@ -1,0 +1,9 @@
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Intermediate\Build\Win64\UE4Editor\Development\RocAR\Definitions.RocAR.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Source\RocAR/RocARGameModeBase.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Intermediate\Build\Win64\UE4Editor\Inc\RocAR\RocARGameModeBase.generated.h

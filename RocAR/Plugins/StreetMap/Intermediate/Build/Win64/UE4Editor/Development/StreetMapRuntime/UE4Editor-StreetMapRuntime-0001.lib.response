@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StreetMapRuntime-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Intermediate\Build\Win64\RocAREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapRuntime\Module.StreetMapRuntime.cpp.obj"
+"C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapRuntime\Module.StreetMapRuntime.gen.cpp.obj"
+"C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapRuntime\Default.rc2.res"
+/OUT:"C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapRuntime\UE4Editor-StreetMapRuntime-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_StreetMapRuntime

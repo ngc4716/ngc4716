@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"StreetMapImporting": "UE4Editor-StreetMapImporting-0001.dll",
+		"StreetMapRuntime": "UE4Editor-StreetMapRuntime-0001.dll"
+	}
+}

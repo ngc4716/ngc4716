@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\narli\\OneDrive\\Documents\\GitHub\\RochesterAR\\RocAR\\Source\\RocAR\\RocAR.Build.cs",
+		"C:\\Users\\narli\\OneDrive\\Documents\\GitHub\\RochesterAR\\RocAR\\Plugins\\StreetMap\\Source\\StreetMapRuntime\\StreetMapRuntime.Build.cs",
+		"C:\\Users\\narli\\OneDrive\\Documents\\GitHub\\RochesterAR\\RocAR\\Plugins\\StreetMap\\Source\\StreetMapImporting\\StreetMapImporting.Build.cs",
+		"C:\\Users\\narli\\OneDrive\\Documents\\GitHub\\RochesterAR\\RocAR\\Source\\RocAR.Target.cs",
+		"C:\\Users\\narli\\OneDrive\\Documents\\GitHub\\RochesterAR\\RocAR\\Source\\RocAREditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

@@ -1,0 +1,16 @@
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapImporting\Definitions.StreetMapImporting.h
+C:/Users/narli/OneDrive/Documents/GitHub/RochesterAR/RocAR/Plugins/StreetMap/Intermediate/Build/Win64/UE4Editor/Inc/StreetMapImporting/StreetMapActorFactory.gen.cpp
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Source\StreetMapImporting/Public/StreetMapActorFactory.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Inc\StreetMapImporting\StreetMapActorFactory.generated.h
+C:/Users/narli/OneDrive/Documents/GitHub/RochesterAR/RocAR/Plugins/StreetMap/Intermediate/Build/Win64/UE4Editor/Inc/StreetMapImporting/StreetMapFactory.gen.cpp
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Source\StreetMapImporting/Public/StreetMapFactory.h
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Inc\StreetMapImporting\StreetMapFactory.generated.h
+C:/Users/narli/OneDrive/Documents/GitHub/RochesterAR/RocAR/Plugins/StreetMap/Intermediate/Build/Win64/UE4Editor/Inc/StreetMapImporting/StreetMapImporting.init.gen.cpp
+C:/Users/narli/OneDrive/Documents/GitHub/RochesterAR/RocAR/Plugins/StreetMap/Intermediate/Build/Win64/UE4Editor/Inc/StreetMapImporting/StreetMapReimportFactory.gen.cpp
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Source\StreetMapImporting/Public/StreetMapReimportFactory.h
+D:\SteamLibrary\steamapps\common\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+C:\Users\narli\OneDrive\Documents\GitHub\RochesterAR\RocAR\Plugins\StreetMap\Intermediate\Build\Win64\UE4Editor\Inc\StreetMapImporting\StreetMapReimportFactory.generated.h

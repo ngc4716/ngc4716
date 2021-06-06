@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RocAR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3B7EB1E8-76C0-4A1C-98A6-29EBCDCE4F3E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RocAR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RocAREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0FC8BF3B-E9F3-44F6-9364-1D0AD0F6F9F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RocAR">
+      <UniqueIdentifier>{D90E592C-D864-4551-9300-465ECC1DC7E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RocAR\RocAR.Build.cs">
+      <Filter>Source\RocAR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RocAR\RocAR.cpp">
+      <Filter>Source\RocAR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocAR\RocAR.h">
+      <Filter>Source\RocAR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RocAR\RocARGameModeBase.cpp">
+      <Filter>Source\RocAR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocAR\RocARGameModeBase.h">
+      <Filter>Source\RocAR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
